@@ -31,14 +31,23 @@ public class laba {
         System.out.println(x*x);*/
 
 
-       /* System.out.println("введите число:");
+       /*System.out.println("введите число:");
         int x = new Scanner(System.in).nextInt();
         System.out.println("введите число:");
         int y = new Scanner(System.in).nextInt();
         System.out.println(x*y/100);*/
 
+        /*System.out.print("введите размер стороны квадрата:");
+        int x = new Scanner(System.in).nextInt();
+        System.out.println("Площадь квадрата равна:" + x*x);*/
 
-
+        System.out.print("введите 1 число:");
+        int x = new Scanner(System.in).nextInt();
+        System.out.print("введите 2 число:");
+        int y = new Scanner(System.in).nextInt();
+        System.out.print("введите 3 число:");
+        int z = new Scanner(System.in).nextInt();
+        System.out.print("Результат");
 
 
     }
